@@ -4,12 +4,12 @@
 
 | Name | Formation |
 |---|---|
-| NOCHÉ Kévin | IPS |
-| ZHAO Zihan | CIMES |
-| MEZEMATE Nour El Houda | IPS |
 | CHELFAT Aya | ISI |
+| MEZEMATE Nour El Houda | IPS |
 | MOULAHCENE Manel | ISI |
 | NAIMI Ferras Islem | ISI |
+| NOCHÉ Kévin | IPS |
+| ZHAO Zihan | CIMES |
 
 ## Summary
 
