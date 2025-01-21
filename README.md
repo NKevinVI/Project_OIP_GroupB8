@@ -2,18 +2,13 @@
 
 ## Participants
 
-|---|---|
 | Name | Formation |
+|---|---|
 | NOCHÉ Kévin | IPS |
-
 | ZHAO Zihan | CIMES |
-
 | MEZEMATE Nour El Houda | IPS |
-
 | CHELFAT Aya | ISI |
-
 | MOULAHCENE Manel | ISI |
-
 | NAIMI Ferras Islem | ISI |
 
 ## Summary
