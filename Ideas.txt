@@ -1,0 +1,40 @@
+Proposition de conception pour le robot mobile biomimétique :
+Caractéristiques générales :
+Robot serpentiforme avec 4 jambes articulées et rétractables, capable de se déplacer sur terre et de nager.
+Conçu pour être compact, léger, et résistant à l’eau, avec une structure robuste adaptée à des environnements variés.
+Contrôlé à distance via une télécommande.
+Système de capteurs :
+Caméras stéréo (2 caméras) : Pour mesurer la distance entre les objets et créer une vision 3D, utile pour la navigation et l’évitement d’obstacles.
+Capteurs ultrasoniques ou capacitifs (en option) : Pour détecter les obstacles ou mesurer la distance dans des environnements où les caméras pourraient être limitées (brouillard, faible lumière).
+Matériaux :
+Plastique renforcé avec fibre de verre ou fibre de carbone :
+Composants étanches 
+Jointures souples en silicone
+Énergie et autonomie :
+Batterie Li-ion ou LiFePO4 : Légère et offrant une autonomie prolongée.
+Système de récupération d’énergie via des générateurs piézoélectriques :
+Exploite les vibrations et les mouvements du robot pour produire de l’énergie.
+Intégré dans les articulations des jambes et les segments flexibles du corps.
+Transmission et communication :
+LoRaWAN : Pour transmettre en temps réel les données collectées par les capteurs sur de longues distances avec une faible consommation d’énergie.
+Avantages :(si possible)
+Léger, compact, et adapté à des terrains variés (accidentés, aquatiques).
+Vision 3D ou détection ultrasonique pour une navigation précise.
+Autonomie optimisée grâce à une batterie performante et un système de récupération d’énergie.
+Résistant aux conditions extérieures grâce à des matériaux durables et étanches.
+Inconvénients et défis :(si moyen de régler)
+La récupération d’énergie piézoélectrique génère une puissance limitée, principalement utile pour des capteurs ou la transmission.
+La conception mécanique et électronique nécessite une planification soignée pour garantir l’étanchéité et la durabilité.
+
+
+À avoir:
+- Computer handling mobility (powerful graphic card)
+- 12 servomotors
+- Snake-like body, with long neck and long tail
+- Two cameras at each end of the robot
+- A UV camera on the back
+- An IR camera at each end
+- Antenna on the back
+
+IMPORTANT:
+    - Wave won't be powerful enough to charge the robot
