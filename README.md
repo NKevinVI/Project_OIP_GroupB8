@@ -15,6 +15,17 @@
 
 This project goal is to design a mobile station that can measure and watch its environment.
 
+### Tasks division
+
+| Student | Task |
+|---|---|
+| CHELFAT Aya | Network, Information Treatment and Storage |
+| MEZEMATE Nour El Houda | Materials |
+| MOULAHCENE Manel | Robotics and Cameras |
+| NAIMI Ferras Islem | Robotics and Cameras |
+| NOCHÉ Kévin | Battery and Energy Storage |
+| ZHAO Zihan | Sensors |
+
 ## Specifications
 
 - The station has to be mobile. (La station doit être mobile.)
