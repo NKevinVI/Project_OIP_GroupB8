@@ -2,7 +2,7 @@
 
 ## Participants
 
-| Name | Formation |
+| Name | Training Courses |
 |---|---|
 | CHELFAT Aya | ISI |
 | MEZEMATE Nour El Houda | IPS |
