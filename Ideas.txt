@@ -25,3 +25,16 @@ Résistant aux conditions extérieures grâce à des matériaux durables et éta
 Inconvénients et défis :(si moyen de régler)
 La récupération d’énergie piézoélectrique génère une puissance limitée, principalement utile pour des capteurs ou la transmission.
 La conception mécanique et électronique nécessite une planification soignée pour garantir l’étanchéité et la durabilité.
+
+
+À avoir:
+- Computer handling mobility (powerful graphic card)
+- 12 servomotors
+- Snake-like body, with long neck and long tail
+- Two cameras at each end of the robot
+- A UV camera on the back
+- An IR camera at each end
+- Antenna on the back
+
+IMPORTANT:
+    - Wave won't be powerful enough to charge the robot
