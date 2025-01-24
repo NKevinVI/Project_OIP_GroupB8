@@ -38,3 +38,5 @@ La conception mécanique et électronique nécessite une planification soignée 
 
 IMPORTANT:
     - Wave won't be powerful enough to charge the robot
+
+2 m² of solar panel.
