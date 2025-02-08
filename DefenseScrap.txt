@@ -1,0 +1,11 @@
+- Introduction
+
+- Part on the Basic Idea
+
+- Part on Sensors
+
+- Part on Locomotion
+
+- Part on Energy (Kévin)
+
+- Conclusion
