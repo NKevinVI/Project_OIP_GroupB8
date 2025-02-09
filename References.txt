@@ -18,3 +18,5 @@ Powers:
 https://www.ecoenergygeek.com/raspberry-pi-power-consumption/
 https://www.etechnophiles.com/usb-port-power-output/
 https://letsavelectricity.com/cctv-camera-power-consumption-calculator/
+
+Solar panel per square foot: https://www.solarreviews.com/solar-panel-cost
