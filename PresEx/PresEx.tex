@@ -36,21 +36,20 @@
     filecolor = blue,
     citecolor = blue
 }
-\pagestyle{fancy}
-\fancyhf[HC]{\textbf{OIP Project}}\fancyhf[HL]{\thepage}\fancyhf[HR]{\thepage}
-\fancyhf[FC]{\thepage}
 \addbibresource{References.bib}
 \usetheme{CambridgeUS}
 \usecolortheme{spruce}
 \beamertemplatenavigationsymbolsempty
-\author{}
-\title{}
-\subtitle{}
+\author{A. Chelfat, N. Mezemate, M. Moulahcene, F. Naimi, K. Noché, Z. Zhao}
+\title{Projet OIP}
+% \subtitle{}
+\institute{Sorbonne Université}
+\logo{\includegraphics[width=0.125\textwidth]{../../../../../SdI.png}}
 \date{\today}
 
 
 \begin{document}
-    \selectlanguage{french} % Should switch to `british`?
+    \selectlanguage{british} % Should switch to `french`?
 
     \maketitle
 
@@ -70,11 +69,43 @@
             \end{frame}
         \subsection{Energy} % NOCHÉ Kévin's part.
             \begin{frame}
-                \frametitle{Energy}
+                \frametitle{Autonomous Energy}
+                \pause
+                Consumption: $\approx331$~W
+                \pause
+                \begin{block}{Solar Panels}
+                    \pause
+                    \begin{itemize}
+                        \item $2$~m\up{2}
+                        \pause
+                        \item Efficiency $\eta\approx43\%{}$
+                        \pause
+                        \item Up to $733$~W during sunshine.
+                        \pause
+                        \item Cost: €$1.68$
+                    \end{itemize}
+                \end{block}
+            \end{frame}
+            \begin{frame}
+                \frametitle{Storing Energy}
+                \pause
+                \begin{block}{Battery}
+                    \pause
+                    \begin{itemize}
+                        \item Capacity $\approx600$~Wh
+                        \pause
+                        \item Weight $\approx6$~kg
+                        \pause
+                        \item Runtime $\geqslant 1$~hr
+                        \pause
+                        \item Price: around €$50.00$
+                    \end{itemize}
+                \end{block}
             \end{frame}
 
     \section{Conclusion} % Summary.
         \begin{frame}
             \frametitle{Conclusion}
         \end{frame}
+        \printbibliography[title={References}] % Printing references, from `References.bib`.
 \end{document}

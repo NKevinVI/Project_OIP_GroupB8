@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {british}{}\relax 
+\beamer@sectionintoc {1}{The Goals}{2}{0}{1}
+\beamer@sectionintoc {2}{The Design}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Sensors}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Materials}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Energy}{5}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{18}{0}{3}
