@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.7)  11 FEB 2025 11:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.7)  11 FEB 2025 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2182,11 +2182,11 @@ LaTeX Font Info:    Font shape `T1/txss/m/n' will be
 (Font)              scaled to size 7.59998pt on input line 54.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
 (Font)              scaled to size 3.79999pt on input line 54.
-<../../../../../SdI.png, id=87, 475.7775pt x 388.45125pt>
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 54.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+<Sorbonne.png, id=87, 889.07156pt x 889.07156pt>
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 54.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2195,15 +2195,15 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/base/8r.enc} <../../../../../SdI.png>]
+st/fonts/enc/dvips/base/8r.enc} <./Sorbonne.png>]
 Overfull \hbox (113.05971pt too wide) in paragraph at lines 59--59
  [][]  \T1/txss/m/n/6 ([])  
  []
 
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 59.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 59.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2216,10 +2216,10 @@ Overfull \hbox (113.05971pt too wide) in paragraph at lines 65--65
  [][]  \T1/txss/m/n/6 ([])  
  []
 
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 65.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 65.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2232,10 +2232,10 @@ Overfull \hbox (113.05971pt too wide) in paragraph at lines 69--69
  [][]  \T1/txss/m/n/6 ([])  
  []
 
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 69.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 69.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2315,10 +2315,10 @@ File: ts1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `TS1/txss/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 88.
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2327,10 +2327,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [5
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2339,10 +2339,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [6
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2351,10 +2351,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [7
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2363,10 +2363,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [8
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2375,10 +2375,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [9
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2387,10 +2387,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [10
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 88.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 88.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2403,10 +2403,10 @@ Overfull \hbox (113.05971pt too wide) in paragraph at lines 104--104
  [][]  \T1/txss/m/n/6 ([])  
  []
 
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2415,10 +2415,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [12
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2427,10 +2427,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [13
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2439,10 +2439,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [14
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2451,10 +2451,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [15
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2463,10 +2463,10 @@ Overfull \hbox (113.05971pt too wide) has occurred while \output is active
 [16
 
 ]
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 104.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 104.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2479,10 +2479,10 @@ Overfull \hbox (113.05971pt too wide) in paragraph at lines 109--109
  [][]  \T1/txss/m/n/6 ([])  
  []
 
-File: ../../../../../SdI.png Graphic file (type png)
-<use ../../../../../SdI.png>
-Package pdftex.def Info: ../../../../../SdI.png  used on input line 109.
-(pdftex.def)             Requested size: 42.58763pt x 34.76942pt.
+File: Sorbonne.png Graphic file (type png)
+<use Sorbonne.png>
+Package pdftex.def Info: Sorbonne.png  used on input line 109.
+(pdftex.def)             Requested size: 42.58763pt x 42.58405pt.
 
 Overfull \hbox (113.05971pt too wide) has occurred while \output is active
  [][]  \T1/txss/m/n/6 ([])  
@@ -2520,7 +2520,7 @@ Package logreq Info: Writing requests to 'PresEx.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  47155 strings out of 474998
- 954621 string characters out of 5767950
+ 954551 string characters out of 5767950
  1942975 words of memory out of 5000000
  68305 multiletter control sequences out of 15000+600000
  599691 words of font info for 98 fonts, out of 8000000 for 9000
@@ -2532,7 +2532,7 @@ xlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
 elvetic/uhvr8a.pfb>
-Output written on PresEx.pdf (18 pages, 178302 bytes).
+Output written on PresEx.pdf (18 pages, 108137 bytes).
 PDF statistics:
  423 PDF objects out of 1000 (max. 8388607)
  264 compressed objects within 3 object streams
