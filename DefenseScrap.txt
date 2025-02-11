@@ -2,9 +2,9 @@
 
 - Part on the Basic Idea
 
-- Part on Sensors
+- Part on Sensors (+ Locomotion)
 
-- Part on Locomotion
+- Part on Materials
 
 - Part on Energy (Kévin)
 
